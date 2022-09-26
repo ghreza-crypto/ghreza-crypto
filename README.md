@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ghulamerezarajabe@gmail.com**
 
-- ⚡ Fun fact **Nobody takes care about this**
+- ⚡ Fun fact **Nobody takes care about this.**
 
 
 <h3 align="left">Languages and Tools:</h3>
